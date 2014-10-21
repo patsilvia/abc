@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+
+llineli nelin elinelinelinelineine
+# comment comment
+
+
+# comment comment
+    # comment
+lline lineline l linel inelinelineine
+# comment comment
+lline lineline l linel inelinelineine # comment comment
